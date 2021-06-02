@@ -14,13 +14,13 @@ header ul {
 	overflow: hidden;
 	background-color: #000;
 }
-header a {
+header li {
 	float: left;
 	display: block;
 	color: #fff;
 	padding: 14px 16px;
 	text-decoration: none;
 }
-header a:hover {
+header li:hover {
   background-color: #003;
 }
