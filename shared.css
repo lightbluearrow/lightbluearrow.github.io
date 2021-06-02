@@ -15,17 +15,17 @@ header ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #000;
+	background-color: #55cdfc;
 }
 header li {
 	float: left;
 	display: block;
-	color: #fff;
+	color: #000;
 	padding: 15px 15px;
 	text-decoration: none;
 }
 header li:hover {
-	background-color: #003;
+	background-color: #0377a5;
 }
 a:link {
 	color: #9cf;
