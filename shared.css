@@ -1,0 +1,21 @@
+header ul {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #000;
+}
+header a {
+	float: left;
+	display: block;
+	color: #fff;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+header a:hover {
+  background-color: #003;
+}
